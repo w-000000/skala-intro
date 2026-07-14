@@ -5,5 +5,9 @@
 ## 실습
 
 - github 저장소 생성과 로컬 저장소와 연결하기
+<<<<<<< HEAD
 - git add, commit 다루기
 - git 브랜치 다루기
+=======
+- git 브랜치 다루기
+>>>>>>> 6dbd3775dfebe26b65435ae3185b2cb6a6b83075
